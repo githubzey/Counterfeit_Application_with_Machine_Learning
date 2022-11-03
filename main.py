@@ -49,7 +49,7 @@ if choisis == "Model Data Overview" :
         billets_clean["is_genuine"]=billets_clean["is_genuine"].replace([True,False],[0,1])
         st.table(billets_clean.head())
 
-        st.markdown("<h6 style='text-align: left; color: red;'>Pay attention please !</h6>", unsafe_allow_html=True) 
+        st.markdown("<h6 style='text-align: left; color: red;'>Pay attention please i changed the labels True with 0 and False with 1 in data 'billets_clean.csv'  !</h6>", unsafe_allow_html=True) 
         #col1, col2 = st.columns(2)
         #col1.write("Vrai billet = 0")
         #col2.write ("Faux billet = 1")
