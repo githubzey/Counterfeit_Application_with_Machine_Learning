@@ -5,9 +5,10 @@ The dataset that you see in data folder is the dataset that i cleaned and prepar
 You can test application in this [link](https://githubzey-counterfeit-application-with-machine-lear-main-mejdlr.streamlit.app/) and you can use the "billets_production.csv" file for test the application.
 Have fun !
 
+
 **The Scenario**
 <div>
-    <img style="float: right;margin:100px 5px 5px 15px" width="200px" class="marginauto" src="logo.png" width=400 height=400  alt="centered image" />
+    <img style="float: right;margin:100px 5px 5px 15px" width="200px" class="marginauto" src="data/logo.png" width=400 height=400  alt="centered image" />
 </div>
 <div style="display: flex; background-color:rgb(213, 219, 219);" >
 <div>    
