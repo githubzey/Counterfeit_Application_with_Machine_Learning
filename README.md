@@ -9,7 +9,7 @@ Have fun !**
 **The Scenario**
 
 <div>
-    <img style="float: right;margin:100px 5px 5px 15px" width="1200px" class="marginauto" src="data/logo.png" width=400 height=200  alt="centered image" />
+    <img style="float: right;margin:100px 5px 5px 15px" width="1200px" class="marginauto" src="data/logo.png" width=400 height=200  alt="Logo PNG" />
 </div>
 <div style="display: flex; background-color:rgb(213, 219, 219);" >
 <div>    
