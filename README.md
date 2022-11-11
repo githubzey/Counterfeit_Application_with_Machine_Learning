@@ -10,9 +10,7 @@ Have fun !**
 
 <div>
     <img src="data/logo.png" width=1200 height=200  alt="Logo PNG" />
-</div>
-<div style="display: flex; background-color:rgb(213, 219, 219);" >
-<div>    
+</div> 
 
     
 * Je suis consultant Data Analyst dans une entreprise spécialisée dans la data. Mon entreprise a décroché une prestation en régie au sein de l’Organisation nationale de lutte contre le faux-monnayage (ONCFM).
